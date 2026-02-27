@@ -25,11 +25,17 @@ MigrationIQ detects migration graph conflicts, risky schema operations, and bran
 pip install migrationiq
 ```
 
-Or install from source:
+Or install directly from GitHub:
 
 ```bash
-git clone https://github.com/migrationiq/migrationiq.git
-cd migrationiq
+pip install git+https://github.com/arjuncm1997/Migration-IQ.git
+```
+
+Or clone and install from source:
+
+```bash
+git clone https://github.com/arjuncm1997/Migration-IQ.git
+cd Migration-IQ
 pip install -e ".[dev]"
 ```
 

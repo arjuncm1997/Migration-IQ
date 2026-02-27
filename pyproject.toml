@@ -47,9 +47,9 @@ dev = [
 migrationiq = "migrationiq.cli.main:app"
 
 [project.urls]
-Homepage = "https://github.com/migrationiq/migrationiq"
-Repository = "https://github.com/migrationiq/migrationiq"
-Issues = "https://github.com/migrationiq/migrationiq/issues"
+Homepage = "https://github.com/arjuncm1997/Migration-IQ"
+Repository = "https://github.com/arjuncm1997/Migration-IQ.git"
+Issues = "https://github.com/arjuncm1997/Migration-IQ/issues"
 
 [tool.setuptools.packages.find]
 include = ["migrationiq*"]
