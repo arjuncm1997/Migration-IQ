@@ -1,0 +1,2 @@
+[console_scripts]
+migrationiq = migrationiq.cli.main:app
